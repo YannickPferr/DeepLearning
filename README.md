@@ -7,3 +7,10 @@ The REINFORCE agent (with or without a baseline) can be trained much faster than
 
 ![156061767-29093c73-c906-464a-97fe-aa5cea04f451](https://user-images.githubusercontent.com/37211050/156062349-6de493c5-4bcb-4a2f-93a1-d1d743a1d49b.gif)
 
+
+## How to run
+1. Clone the repo 
+2. Install the needed packages tensorflow/keras, gym, numpy (you can try with requirements.txt just note that it was created with a M1 Mac)
+3. Change configs as needed in ToyProblemsTrain.py
+4. Run ToyProblemsTrain.py
+
